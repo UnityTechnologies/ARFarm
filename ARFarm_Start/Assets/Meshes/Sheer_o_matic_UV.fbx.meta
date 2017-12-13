@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 7c81b801eda16bf429ed56a9397016d6
+timeCreated: 1440193398
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bellow
+    100002: Bolts
+    100004: IntakeBellow
+    100006: Lightbulb
+    100008: Main
+    100010: Meter
+    100012: RetopoGroup1
+    100014: sheer_o_matic
+    100016: //RootNode
+    100018: SmokeStack
+    100020: Spiral
+    100022: Spitter
+    100024: SweatBox
+    100026: Sweater
+    100028: Wind
+    400000: Bellow
+    400002: Bolts
+    400004: IntakeBellow
+    400006: Lightbulb
+    400008: Main
+    400010: Meter
+    400012: RetopoGroup1
+    400014: sheer_o_matic
+    400016: //RootNode
+    400018: SmokeStack
+    400020: Spiral
+    400022: Spitter
+    400024: SweatBox
+    400026: Sweater
+    400028: Wind
+    2300000: Bellow
+    2300002: Bolts
+    2300004: IntakeBellow
+    2300006: Lightbulb
+    2300008: Main
+    2300010: Meter
+    2300012: RetopoGroup1
+    2300014: sheer_o_matic
+    2300016: SmokeStack
+    2300018: Spiral
+    2300020: Spitter
+    2300022: SweatBox
+    2300024: Sweater
+    2300026: Wind
+    3300000: Bellow
+    3300002: Bolts
+    3300004: IntakeBellow
+    3300006: Lightbulb
+    3300008: Main
+    3300010: Meter
+    3300012: RetopoGroup1
+    3300014: sheer_o_matic
+    3300016: SmokeStack
+    3300018: Spiral
+    3300020: Spitter
+    3300022: SweatBox
+    3300024: Sweater
+    3300026: Wind
+    4300000: sheer_o_matic
+    4300002: Main
+    4300004: Bolts
+    4300006: SweatBox
+    4300008: Spitter
+    4300010: SmokeStack
+    4300012: Sweater
+    4300014: Lightbulb
+    4300016: Spiral
+    4300018: Meter
+    4300020: Bellow
+    4300022: IntakeBellow
+    4300024: Wind
+    4300026: RetopoGroup1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

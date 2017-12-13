@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 605ff38f6841c894cbfcb9346d01e7ef
+timeCreated: 1457388568
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIIcons_0
+    21300002: UIIcons_1
+    21300004: UIIcons_2
+    21300006: UIIcons_3
+    21300008: UIIcons_4
+    21300010: UIIcons_5
+    21300012: UIIcons_6
+    21300014: UIIcons_7
+    21300016: UIIcons_8
+    21300018: UIIcons_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UIIcons_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 155
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 155
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 155
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 155
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 155
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 30
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    - name: UIIcons_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 30
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 46}
+        - {x: -46, y: -46}
+        - {x: 46, y: -46}
+        - {x: 46, y: 46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

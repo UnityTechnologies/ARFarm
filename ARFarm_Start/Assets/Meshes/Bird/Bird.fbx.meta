@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 7cc7884c6390fac46ac3dc6754386c17
+timeCreated: 1441238927
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bird_master:bird_geo
+    100004: bird_master:chest_control
+    100006: bird_master:chest_grp
+    100008: bird_master:chest_joint
+    100010: bird_master:COG_control
+    100012: bird_master:COG_grp
+    100014: bird_master:COG_joint
+    100016: bird_master:head_control
+    100018: bird_master:head_grp
+    100020: bird_master:head_joint
+    100022: bird_master:jaw_control
+    100024: bird_master:jaw_grp
+    100026: bird_master:jaw_joint
+    100028: bird_master:L_elbow_control
+    100030: bird_master:L_elbow_grp
+    100032: bird_master:L_elbow_joint
+    100034: bird_master:L_elbow_wind_control
+    100036: bird_master:L_elbow_wind_grp
+    100038: bird_master:L_elbow_wind_joint
+    100040: bird_master:L_inner_wind_control
+    100042: bird_master:L_inner_wind_grp
+    100044: bird_master:L_inner_wind_joint
+    100046: bird_master:L_shoulder_control
+    100048: bird_master:L_shoulder_grp
+    100050: bird_master:L_shoulder_joint
+    100052: bird_master:L_tail_control
+    100054: bird_master:L_tail_grp
+    100056: bird_master:L_tail_joint
+    100058: bird_master:L_wingtip_control
+    100060: bird_master:L_wingtip_grp
+    100062: bird_master:L_wingtip_joint
+    100064: bird_master:Main_control
+    100066: bird_master:Main_grp
+    100068: bird_master:neck_control
+    100070: bird_master:neck_grp
+    100072: bird_master:neck_joint
+    100074: bird_master:R_elbow_control
+    100076: bird_master:R_elbow_grp
+    100078: bird_master:R_elbow_joint
+    100080: bird_master:R_elbow_wind_control
+    100082: bird_master:R_elbow_wind_grp
+    100084: bird_master:R_elbow_wind_joint
+    100086: bird_master:R_inner_wind_control
+    100088: bird_master:R_inner_wind_grp
+    100090: bird_master:R_inner_wind_joint
+    100092: bird_master:R_shoulder_control
+    100094: bird_master:R_shoulder_grp
+    100096: bird_master:R_shoulder_joint
+    100098: bird_master:R_tail_control
+    100100: bird_master:R_tail_grp
+    100102: bird_master:R_tail_joint
+    100104: bird_master:R_wingtip_control
+    100106: bird_master:R_wingtip_grp
+    100108: bird_master:R_wingtip_joint
+    100110: bird_master:root
+    100112: bird_master:tail_base_control
+    100114: bird_master:tail_base_grp
+    100116: bird_master:tail_base_joint
+    100118: bird_master:tail_mid_control
+    100120: bird_master:tail_mid_grp
+    100122: bird_master:tail_mid_joint
+    400000: //RootNode
+    400002: bird_master:bird_geo
+    400004: bird_master:chest_control
+    400006: bird_master:chest_grp
+    400008: bird_master:chest_joint
+    400010: bird_master:COG_control
+    400012: bird_master:COG_grp
+    400014: bird_master:COG_joint
+    400016: bird_master:head_control
+    400018: bird_master:head_grp
+    400020: bird_master:head_joint
+    400022: bird_master:jaw_control
+    400024: bird_master:jaw_grp
+    400026: bird_master:jaw_joint
+    400028: bird_master:L_elbow_control
+    400030: bird_master:L_elbow_grp
+    400032: bird_master:L_elbow_joint
+    400034: bird_master:L_elbow_wind_control
+    400036: bird_master:L_elbow_wind_grp
+    400038: bird_master:L_elbow_wind_joint
+    400040: bird_master:L_inner_wind_control
+    400042: bird_master:L_inner_wind_grp
+    400044: bird_master:L_inner_wind_joint
+    400046: bird_master:L_shoulder_control
+    400048: bird_master:L_shoulder_grp
+    400050: bird_master:L_shoulder_joint
+    400052: bird_master:L_tail_control
+    400054: bird_master:L_tail_grp
+    400056: bird_master:L_tail_joint
+    400058: bird_master:L_wingtip_control
+    400060: bird_master:L_wingtip_grp
+    400062: bird_master:L_wingtip_joint
+    400064: bird_master:Main_control
+    400066: bird_master:Main_grp
+    400068: bird_master:neck_control
+    400070: bird_master:neck_grp
+    400072: bird_master:neck_joint
+    400074: bird_master:R_elbow_control
+    400076: bird_master:R_elbow_grp
+    400078: bird_master:R_elbow_joint
+    400080: bird_master:R_elbow_wind_control
+    400082: bird_master:R_elbow_wind_grp
+    400084: bird_master:R_elbow_wind_joint
+    400086: bird_master:R_inner_wind_control
+    400088: bird_master:R_inner_wind_grp
+    400090: bird_master:R_inner_wind_joint
+    400092: bird_master:R_shoulder_control
+    400094: bird_master:R_shoulder_grp
+    400096: bird_master:R_shoulder_joint
+    400098: bird_master:R_tail_control
+    400100: bird_master:R_tail_grp
+    400102: bird_master:R_tail_joint
+    400104: bird_master:R_wingtip_control
+    400106: bird_master:R_wingtip_grp
+    400108: bird_master:R_wingtip_joint
+    400110: bird_master:root
+    400112: bird_master:tail_base_control
+    400114: bird_master:tail_base_grp
+    400116: bird_master:tail_base_joint
+    400118: bird_master:tail_mid_control
+    400120: bird_master:tail_mid_grp
+    400122: bird_master:tail_mid_joint
+    4300000: bird_master:bird_geo
+    9500000: //RootNode
+    13700000: bird_master:bird_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
